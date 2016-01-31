@@ -1,17 +1,9 @@
-/**
- * SyntaxHighlighter
- * http://alexgorbatchev.com/SyntaxHighlighter
- *
- * @license
- * Dual licensed under the MIT and GPL licenses.
- */
 var BrushBase = require('brush-base');
 var regexLib = require('regex-lib');
 
 function Brush() {
   // Contributed by Chad Granum
   this.regexList = [
-            // Plan
     {
       regex: new RegExp('^1..\\d+', 'gm'),
       css: 'plain bold italic'
@@ -44,7 +36,7 @@ function Brush() {
       regex: regexLib.singleQuotedString,
       css: 'string'
     },
-        ];
+  ];
 }
 
 Brush.prototype = new BrushBase();
