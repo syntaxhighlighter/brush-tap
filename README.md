@@ -2,11 +2,11 @@
 
 TAP brush module for [SyntaxHighlighter](https://github.com/syntaxhighlighter).
 
-[![Build Status](https://travis-ci.org/alexgorbatchev/brush-tap.svg)](https://travis-ci.org/alexgorbatchev/brush-tap)
+[![Build Status](https://travis-ci.org/syntaxhighlighter/brush-tap.svg)](https://travis-ci.org/syntaxhighlighter/brush-tap)
 
 ## Installation
 
-    npm install syntaxhighlighter/brush-tap
+    npm install @alexgorbatchev/brush-tap
 
 ## Testing
 
