@@ -1,5 +1,5 @@
 {
-  "name": "brush-tap",
+  "name": "@alexgorbatchev/brush-tap",
   "version": "4.0.0",
   "description": "tap brush module for SyntaxHighlighter.",
   "keywords": [
